@@ -1,0 +1,227 @@
+resume:
+  metadata:
+    version: '4.5'
+    layout: full
+    page_one_limit: true
+
+  header:
+    name: Donald L. Coles
+    contact:
+      email: dlcoles@gmail.com
+      phone: 713-503-6456
+      linkedin: http://linkedin.com/in/donaldcoles
+      blog: http://aeon.ghost.io
+    immutable: true
+  
+  start_with_why:
+    header: Start With Why
+    content: >
+      I believe clarity is the most powerful tool in a leader’s arsenal.
+
+      I’ve spent my career building systems that cut through noise—whether that means
+      aligning teams, untangling legacy infrastructure, or designing processes that
+      scale. I don’t just want to ship; I want to understand what we’re building,
+      why it matters, and how to make it repeatable.
+
+      My north star? Better systems, better thinking, better outcomes—for teams *and*
+      the people in them.
+    mutability: minimal
+  
+  who_i_am:
+    header: Who I Am
+    content: >
+      I’m a systems-first builder with a background that spans infrastructure, cloud,
+      software, and strategy. For nearly two decades, I’ve worked across startups
+      and Fortune 500s—leading programs that untangle legacy systems, introduce modern
+      tools, and scale processes with intention.
+
+      I’m the person teams call when the mission is complex, the path is unclear,
+      and the cost of getting it wrong is high. Whether I’m solving for architecture,
+      operations, or human dynamics—I zoom out, ask better questions, and get the
+      right work moving.
+    mutability: moderate
+  
+  how_i_work:
+    header: How I Work
+    intro: >
+      I build systems that work -- at scale, across teams, and under pressure.  That
+      means knowing the tools *and* the terrain.
+    
+    blocks:
+    - block_heading: 'Approaches & Methods:'
+      list:
+      - Agile
+      - Scrum
+      - SAFe
+      - Kanban
+      - Waterfall
+      - Hybrid
+      - DevOps
+      - Roadmapping
+      - Delivery Strategy
+      - Change Enablement
+      - Team Formation
+      - Risk & Stakeholder Management
+    
+    - block_heading: 'Tools of the Trade:'
+      list:
+      - Jira
+      - Notion
+      - Smartsheet
+      - Microsoft Project
+      - Confluence
+      - Teams
+      - Excel
+    
+    - block_heading: 'Technical Fluency:'
+      list:
+      - Microsoft 365
+      - Exchange
+      - Azure
+      - AWS
+      - SharePoint
+      - Git
+      - Python
+      - SQL
+      - HTML/CSS
+    
+    - outro: >
+        I’m not a hands-on engineer, but I speak the language—and I make sure the
+        people who *are* building always have what they need to succeed.
+    mutability: high
+  
+  experience:
+    section_title: What I've Done
+    jobs:
+    - name: sonic
+      job_title: Sr. Project Manager
+      company_name: Sonic Automotive
+      location: Remote
+      date_start: July 2024
+      date_end: Nov 2024
+      summary: >
+        Brought in mid-flight to rescue a failing PC refresh project spanning 3,500 machines 
+        across 100+ dealership sites. Rebuilt team trust, redesigned delivery workflows, and 
+        delivered the full program **ahead of schedule** after regaining executive confidence.'
+      bullets:
+      - Reorganized project execution into fast, one-week Agile sprints with daily standups across multiple time zones and technician teams      
+      - Revamped all technician documentation for clarity and accuracy; eliminated process ambiguity and reduced escalations by >50%      
+      - Built direct communication lines using SMS and ad hoc email, overcoming lack of standard IT infrastructure for contract techs      
+      - Led coaching and coordination for 50+ technicians and 6 regional technology managers across 20+ geographic markets      
+      - Implemented structured decommissioning processes and solved logistical gaps in end-of-life device handling      
+      punch_quote: “More than just a project rescue—it was a full system reboot. And
+        I made sure it shipped with confidence.”
+    
+    - name: united
+      job_title: Sr. Project Manager
+      company_name: United Airlines
+      location: Houston/Remote
+      date_start: July 2023
+      date_end: Nov 2023
+      summary: >
+        Joined the Corporate Real Estate (CRE) group as a generalist IT project manager supporting 
+        a diverse portfolio of infrastructure and facilities upgrades. Tasked with bringing structure 
+        to loosely defined projects across multiple airport and warehouse sites.      
+      bullets:
+      - Initiated early-stage project planning for a proposed 500,000 sq ft distribution warehouse in Houston -- designed to centralize aircraft parts procurement and logistics across all U.S. hubs      
+      - Took over midstream delivery of a narrowbody hangar renovation at Portland International Airport (PDX), managing vendor coordination, equipment logistics, and implementation schedules      
+      - Led regular coordination calls with architects, builders, and airport authorities to ensure retrofit alignment and schedule adherence      
+      - Supported analytics improvement efforts for TSA foot traffic reporting systems at Newark Airport      
+      - Operated without a formal project toolset; built and maintained all plans using personal MS Project license and custom Teams sites to close operational gaps      
+      punch_quote: “Not every role is a fit -- but even in the wrong system, I still deliver.”
+    
+    - name: sysco
+      job_title: Sr. Project Manager
+      company_name: Sysco
+      location: Houston/Remote
+      date_start: Sept 2022
+      date_end: Apr 2023
+      summary: >
+        Initially hired to lead a regional customer realignment initiative, I pivoted into a collaborative 
+        planning role for the launch of a new regional operating company (OpCo) in Allentown, PA. While not 
+        the lead, I acted as a strategic partner—facilitating stakeholder discovery, surfacing hidden dependencies, 
+        and helping to craft one of the most comprehensive execution roadmaps I’ve ever contributed to.
+      bullets:
+      - Co-developed Sysco’s first OpCo “foldout” plan in a decade—a fully detailed, scalable playbook for launching future business units   
+      - Collaborated with 15+ cross-functional teams (Ops, Finance, HR, Engineering, Sales) to extract needs, define processes, and align sequencing across domains      
+      - Led working sessions, stakeholder discovery, and documentation curation efforts that dramatically accelerated trust-building and systems visibility      
+      - Translated iterative workshops into structured workflows using Smartsheet and SharePoint; plan was finalized at 98% readiness at contract end      
+      - Acted as a force multiplier to the Program Manager—enabling concurrent engagement with business units and reducing total discovery time by weeks      
+      punch_quote: “There was no documentation. No map. We built the plan from scratch -- and it was a good one.”
+    
+    - name: cvs_tpm
+      job_title: Technical Program Manager
+      company_name: CVS
+      location: Remote
+      date_start: Feb 2022
+      date_end: Aug 2022
+      summary: >
+        Hired to lead a nationwide enterprise PC refresh, I coordinated one of the largest infrastructure programs 
+        of my career—spanning three business units, six parallel tracks of work, and over 100 field technicians. 
+        Despite limited tooling and contractor constraints, we beat all initial targets months ahead of schedule, 
+        closing the program with stretch goals in reach and 18,000 devices deployed.
+      bullets:
+      - Oversaw planning and execution of a multi-division PC refresh for ~18,000 endpoints across CVS Retail, Aetna, and PBM business units
+      - Delivered 95% of target migrations within 5 months—enabling early contract completion and organizational cost savings
+      - Managed program-level tracking across six project streams; served as cost steward, logistics coordinator, and executive liaison for the PMO
+      - Built scalable communication infrastructure using Teams + SharePoint to coordinate ~100 field technicians and multiple vendor teams
+      - Operated within Agile sprints for prioritization while aligning final delivery to a Waterfall-style closeout cadence      
+      punch_quote: “Sometimes, the best value is just doing exactly what’s needed—faster than anyone thought possible.”
+     
+    - name: bp_1
+      job_title: Organizational Change Manager & Sr. Project Manager
+      company_name: BP
+      location: Houston
+      date_start: Aug 2018
+      date_end: Mar 2020
+      summary: >
+        Brought on as a Swiss Army knife of change, training, and IT strategy, I helped modernize BP’s internal culture through
+        a global Office 365 transformation -- then pivoted to lead infrastructure readiness for major US asset divestitures. 
+        From driving digital adoption for 60,000+ users to coordinating remote field transitions in the high desert, 
+        I thrived at the intersection of technology, people, and scale. 
+      bullets:
+      - Delivered a global Office 365 adoption campaign for 60k+ users across BP, doubling daily Teams engagement from 30% to 66% in under 6 months
+      - Designed and executed the “Champions Network” advocacy program, training internal evangelists to accelerate digital adoption at scale
+      - Led communications strategy, training updates, stakeholder engagement, and product rollout planning across Yammer, Planner, Stream, SharePoint, and more
+      - Shifted to BPX’s M&A division to co-lead infrastructure and data readiness for the sale of two major energy assets in CO and WY
+      - Developed full discovery, remediation, and handoff strategies including IT transition plans, runbooks, and post-divestiture continuity documentation
+      - Adapted seamlessly between Agile (Digital Workplace) and Waterfall (Divestiture Program) approaches, flexing to the needs of the mission      
+      punch_quote: “This was my first taste of real-scale impact. One project lit my soul on fire. The next taught me how to deliver, no matter the weather.”
+ 
+    - name: interdyn
+      job_title: Project Manager & Practice Manager
+      company_name: Interdyn BMI
+      location: Houston
+      date_start: Feb 2017
+      date_end: Dec 2017
+      summary: >
+        Hired to bring structure to chaos—and stayed to prevent collapse. I joined to formalize project delivery 
+        for a scrappy Managed Services group, only to step into full departmental leadership after the abrupt 
+        dismissal of our boss. What followed was nine months of keeping the lights on, teams together, and 
+        projects delivered.
+      bullets:
+      - Oversaw 30–40 simultaneous projects across Azure, Office 365, infrastructure upgrades, and full IT services for Houston-area SMB clients
+      - Took over billing operations, project oversight, and people management after department head was terminated without transition plan
+      - Balanced engineering workload, ran daily standups, and kept project momentum alive under resource and morale strain
+      - Documented tribal knowledge and streamlined internal operations to preserve business continuity amid organizational upheaval
+      - Helped define long-term IT strategy for managed clients, acting as vCIO and trusted advisor across dozens of industries      
+      punch_quote: “After the leader fell, I didn’t just keep the wheels turning -- I held the line.”
+    mutability: high
+  
+  education:
+    college:
+      college_name: University of Houston-Downtown
+      degree_type: Bachelor of Science
+      major_name: Interdisciplinary Studies
+      year: 2013
+      focus_areas:
+      - Philosophy
+      - Communications
+      - History
+    certification:
+      certifying_body: PMI
+      certification type: Project Management Professional (PMP)
+      year: 2016
+      current: true
+    importance: low
+    mutability: none
